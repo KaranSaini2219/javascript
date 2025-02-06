@@ -15,3 +15,4 @@ console.log(value2)//Number command tried to convert the unefined to number but 
 
 
 //similarly we have Boolean command and String command
+
